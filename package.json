@@ -1,0 +1,23 @@
+{
+  "name": "v8-bears-team-07",
+  "version": "1.0.0",
+  "description": "Add-project-description-here | Voyage-8 | https://chingu.io/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chingu-voyages/v8-bears-team-07.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chingu-voyages/v8-bears-team-07/issues"
+  },
+  "homepage": "https://github.com/chingu-voyages/v8-bears-team-07#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
