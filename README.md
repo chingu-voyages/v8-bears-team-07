@@ -1,6 +1,7 @@
 <p align="center">
-# WHAT’S IN THE FRIDGE
+<h1>WHAT’S IN THE FRIDGE</h1>
 </p>
+
 A <a href="https://chingu.io/" target="_blank">chingu</a> project by v8-bears-team-07.
 
 <hr>
