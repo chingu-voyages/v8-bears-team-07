@@ -4,6 +4,10 @@
 header {
   text-align: center;
 }
+
+.navbar-light .navbar-brand {
+  color: rgb(175, 49, 46) !important;
+}
 .searchForm {
   margin: 5px;
   width: 400px;
@@ -12,4 +16,52 @@ header {
 
 .btn-secondary {
   margin: 5px;
+}
+
+main {
+  width: 100%;
+  height: 500px;
+}
+
+.row {
+  width: inherit;
+  height: inherit;
+}
+
+.about-app {
+  color: #af312e;
+}
+
+.bg-light {
+  background-color: #92c3d9 !important;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #92c3d9 !important;
+  border-color: #92c3d9 !important;
+}
+
+main .col-6 p {
+  /* margin: 0.95em 0 1.2em;
+  padding: 0.2em; */
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua",
+    Georgia, serif;
+  font-size: 21px;
+  line-height: 32px;
+  text-align: left;
+  padding-left: 1em;
+}
+
+/* p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+} */
+
+.col-6 img {
+  width: 430px;
+  height: 450px;
 }
